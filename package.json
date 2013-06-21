@@ -1,5 +1,5 @@
 {
-  "name": "inherit-component",
+  "name": "inherit",
   "description": "Prototype inheritance utility",
   "version": "0.0.2",
   "keywords": ["inherit", "utility"],
